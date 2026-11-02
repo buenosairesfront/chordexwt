@@ -36,13 +36,19 @@ que la voz recorre en vivo.
 - sigue el clock MIDI entrante para el tempo del arpegio
 - todo se guarda solo
 
+<!-- u-ma:family -->
 ## La familia Chordex
 
 Mismos controles, motores distintos. Probá los otros:
 
-- [Chordex 80](https://github.com/buenosairesfront/chordex80): polisynth ochentoso con atardecer outrun
-- [Chordex FM](https://github.com/buenosairesfront/chordexfm): FM de 4 operadores, dibujado como una flor
-- [ChordexSTG](https://github.com/buenosairesfront/chordexstg): cuerdas de orquesta con el movimiento real de una cuerda frotada
+| | |
+|---|---|
+| <a href="https://github.com/buenosairesfront/chordex80/blob/main/README.es.md"><img src="https://raw.githubusercontent.com/buenosairesfront/chordex80/main/docs/1_d50.png" width="200" alt="Chordex 80"></a> | **[Chordex 80](https://github.com/buenosairesfront/chordex80/blob/main/README.es.md)**<br>polisynth ochentoso con atardecer outrun<br>`;install https://github.com/buenosairesfront/chordex80` |
+| <a href="https://github.com/buenosairesfront/chordexfm/blob/main/README.es.md"><img src="https://raw.githubusercontent.com/buenosairesfront/chordexfm/main/docs/3_metal.png" width="200" alt="Chordex FM"></a> | **[Chordex FM](https://github.com/buenosairesfront/chordexfm/blob/main/README.es.md)**<br>FM de 4 operadores, dibujado como una flor<br>`;install https://github.com/buenosairesfront/chordexfm` |
+| <a href="https://github.com/buenosairesfront/chordexstg/blob/main/README.es.md"><img src="https://raw.githubusercontent.com/buenosairesfront/chordexstg/main/docs/2_tutti.png" width="200" alt="ChordexSTG"></a> | **[ChordexSTG](https://github.com/buenosairesfront/chordexstg/blob/main/README.es.md)**<br>cuerdas de orquesta con el movimiento real de una cuerda frotada<br>`;install https://github.com/buenosairesfront/chordexstg` |
+
+**Más de U-MA:** todos los instrumentos y herramientas en un solo lugar → [muestrario U-MA](https://github.com/buenosairesfront/U-ma/blob/main/README.es.md)
+<!-- /u-ma:family -->
 
 ## Requisitos
 

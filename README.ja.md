@@ -24,13 +24,19 @@
 - アルペジオのテンポは受信した MIDI クロックに追従
 - すべての設定は自動保存
 
+<!-- u-ma:family -->
 ## Chordex ファミリー
 
 操作は同じ、エンジンは別。ほかの楽器もどうぞ：
 
-- [Chordex 80](https://github.com/buenosairesfront/chordex80)：アウトランの夕焼けを描く 80 年代ポリシンセ
-- [Chordex FM](https://github.com/buenosairesfront/chordexfm)：花として描かれる 4 オペレーター FM
-- [ChordexSTG](https://github.com/buenosairesfront/chordexstg)：弓で擦った弦の実際の動きを描くオーケストラ弦楽
+| | |
+|---|---|
+| <a href="https://github.com/buenosairesfront/chordex80/blob/main/README.ja.md"><img src="https://raw.githubusercontent.com/buenosairesfront/chordex80/main/docs/1_d50.png" width="200" alt="Chordex 80"></a> | **[Chordex 80](https://github.com/buenosairesfront/chordex80/blob/main/README.ja.md)**<br>アウトランの夕焼けを描く 80 年代ポリシンセ<br>`;install https://github.com/buenosairesfront/chordex80` |
+| <a href="https://github.com/buenosairesfront/chordexfm/blob/main/README.ja.md"><img src="https://raw.githubusercontent.com/buenosairesfront/chordexfm/main/docs/3_metal.png" width="200" alt="Chordex FM"></a> | **[Chordex FM](https://github.com/buenosairesfront/chordexfm/blob/main/README.ja.md)**<br>花として描かれる 4 オペレーター FM<br>`;install https://github.com/buenosairesfront/chordexfm` |
+| <a href="https://github.com/buenosairesfront/chordexstg/blob/main/README.ja.md"><img src="https://raw.githubusercontent.com/buenosairesfront/chordexstg/main/docs/2_tutti.png" width="200" alt="ChordexSTG"></a> | **[ChordexSTG](https://github.com/buenosairesfront/chordexstg/blob/main/README.ja.md)**<br>弓で擦った弦の実際の動きを描くオーケストラ弦楽<br>`;install https://github.com/buenosairesfront/chordexstg` |
+
+**U-MA のほかの作品：** すべての楽器とツールをひとつに → [U-MA ショーケース](https://github.com/buenosairesfront/U-ma/blob/main/README.ja.md)
+<!-- /u-ma:family -->
 
 ## 必要なもの
 

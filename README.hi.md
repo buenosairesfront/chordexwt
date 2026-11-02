@@ -23,13 +23,19 @@
 - आर्पेजियो की गति आने वाली MIDI क्लॉक का पालन करती है
 - सभी सेटिंग्स अपने आप सेव होती हैं
 
+<!-- u-ma:family -->
 ## Chordex परिवार
 
 कंट्रोल वही, इंजन अलग। बाकी भी आज़माएँ:
 
-- [Chordex 80](https://github.com/buenosairesfront/chordex80): outrun सूर्यास्त वाला 80 के दशक का पॉलीसिंथ
-- [Chordex FM](https://github.com/buenosairesfront/chordexfm): 4-ऑपरेटर FM, फूल के रूप में
-- [ChordexSTG](https://github.com/buenosairesfront/chordexstg): गज़ से बजे तार की असली गति वाले ऑर्केस्ट्रा स्ट्रिंग्स
+| | |
+|---|---|
+| <a href="https://github.com/buenosairesfront/chordex80/blob/main/README.hi.md"><img src="https://raw.githubusercontent.com/buenosairesfront/chordex80/main/docs/1_d50.png" width="200" alt="Chordex 80"></a> | **[Chordex 80](https://github.com/buenosairesfront/chordex80/blob/main/README.hi.md)**<br>outrun सूर्यास्त वाला 80 के दशक का पॉलीसिंथ<br>`;install https://github.com/buenosairesfront/chordex80` |
+| <a href="https://github.com/buenosairesfront/chordexfm/blob/main/README.hi.md"><img src="https://raw.githubusercontent.com/buenosairesfront/chordexfm/main/docs/3_metal.png" width="200" alt="Chordex FM"></a> | **[Chordex FM](https://github.com/buenosairesfront/chordexfm/blob/main/README.hi.md)**<br>4-ऑपरेटर FM, फूल के रूप में<br>`;install https://github.com/buenosairesfront/chordexfm` |
+| <a href="https://github.com/buenosairesfront/chordexstg/blob/main/README.hi.md"><img src="https://raw.githubusercontent.com/buenosairesfront/chordexstg/main/docs/2_tutti.png" width="200" alt="ChordexSTG"></a> | **[ChordexSTG](https://github.com/buenosairesfront/chordexstg/blob/main/README.hi.md)**<br>गज़ से बजे तार की असली गति वाले ऑर्केस्ट्रा स्ट्रिंग्स<br>`;install https://github.com/buenosairesfront/chordexstg` |
+
+**U-MA से और:** सभी वाद्य और टूल एक जगह → [U-MA शोकेस](https://github.com/buenosairesfront/U-ma/blob/main/README.hi.md)
+<!-- /u-ma:family -->
 
 ## ज़रूरतें
 

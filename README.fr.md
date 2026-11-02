@@ -39,13 +39,19 @@ le son :
 - suit l'horloge MIDI entrante pour le tempo de l'arpège
 - tous les réglages sont sauvegardés automatiquement
 
+<!-- u-ma:family -->
 ## La famille Chordex
 
 Mêmes contrôles, moteurs différents. Essayez les autres :
 
-- [Chordex 80](https://github.com/buenosairesfront/chordex80) : polysynthé des années 80 avec un coucher de soleil outrun
-- [Chordex FM](https://github.com/buenosairesfront/chordexfm) : FM à 4 opérateurs, dessinée comme une fleur
-- [ChordexSTG](https://github.com/buenosairesfront/chordexstg) : cordes d'orchestre avec le vrai mouvement d'une corde frottée
+| | |
+|---|---|
+| <a href="https://github.com/buenosairesfront/chordex80/blob/main/README.fr.md"><img src="https://raw.githubusercontent.com/buenosairesfront/chordex80/main/docs/1_d50.png" width="200" alt="Chordex 80"></a> | **[Chordex 80](https://github.com/buenosairesfront/chordex80/blob/main/README.fr.md)**<br>polysynthé des années 80 avec un coucher de soleil outrun<br>`;install https://github.com/buenosairesfront/chordex80` |
+| <a href="https://github.com/buenosairesfront/chordexfm/blob/main/README.fr.md"><img src="https://raw.githubusercontent.com/buenosairesfront/chordexfm/main/docs/3_metal.png" width="200" alt="Chordex FM"></a> | **[Chordex FM](https://github.com/buenosairesfront/chordexfm/blob/main/README.fr.md)**<br>FM à 4 opérateurs, dessinée comme une fleur<br>`;install https://github.com/buenosairesfront/chordexfm` |
+| <a href="https://github.com/buenosairesfront/chordexstg/blob/main/README.fr.md"><img src="https://raw.githubusercontent.com/buenosairesfront/chordexstg/main/docs/2_tutti.png" width="200" alt="ChordexSTG"></a> | **[ChordexSTG](https://github.com/buenosairesfront/chordexstg/blob/main/README.fr.md)**<br>cordes d'orchestre avec le vrai mouvement d'une corde frottée<br>`;install https://github.com/buenosairesfront/chordexstg` |
+
+**Plus de U-MA :** tous les instruments et outils au même endroit → [vitrine U-MA](https://github.com/buenosairesfront/U-ma/blob/main/README.fr.md)
+<!-- /u-ma:family -->
 
 ## Prérequis
 

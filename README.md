@@ -35,13 +35,19 @@ live.
 - follows incoming MIDI clock for the arpeggio tempo
 - all settings are saved automatically
 
+<!-- u-ma:family -->
 ## The Chordex family
 
 Same controls, different engines. Try the others:
 
-- [Chordex 80](https://github.com/buenosairesfront/chordex80): '80s polysynth with an outrun sunset
-- [Chordex FM](https://github.com/buenosairesfront/chordexfm): 4-operator FM, drawn as a flower
-- [ChordexSTG](https://github.com/buenosairesfront/chordexstg): orchestral strings with real bowed-string motion
+| | |
+|---|---|
+| <a href="https://github.com/buenosairesfront/chordex80"><img src="https://raw.githubusercontent.com/buenosairesfront/chordex80/main/docs/1_d50.png" width="200" alt="Chordex 80"></a> | **[Chordex 80](https://github.com/buenosairesfront/chordex80)**<br>'80s polysynth with an outrun sunset<br>`;install https://github.com/buenosairesfront/chordex80` |
+| <a href="https://github.com/buenosairesfront/chordexfm"><img src="https://raw.githubusercontent.com/buenosairesfront/chordexfm/main/docs/3_metal.png" width="200" alt="Chordex FM"></a> | **[Chordex FM](https://github.com/buenosairesfront/chordexfm)**<br>4-operator FM, drawn as a flower<br>`;install https://github.com/buenosairesfront/chordexfm` |
+| <a href="https://github.com/buenosairesfront/chordexstg"><img src="https://raw.githubusercontent.com/buenosairesfront/chordexstg/main/docs/2_tutti.png" width="200" alt="ChordexSTG"></a> | **[ChordexSTG](https://github.com/buenosairesfront/chordexstg)**<br>orchestral strings with real bowed-string motion<br>`;install https://github.com/buenosairesfront/chordexstg` |
+
+**More from U-MA:** every instrument and tool in one place → [U-MA showcase](https://github.com/buenosairesfront/U-ma)
+<!-- /u-ma:family -->
 
 ## Requirements
 

@@ -36,13 +36,19 @@ erzeugt:
 - folgt eingehender MIDI-Clock für das Arpeggio-Tempo
 - alle Einstellungen werden automatisch gespeichert
 
+<!-- u-ma:family -->
 ## Die Chordex-Familie
 
 Gleiche Bedienung, andere Engines. Probier die anderen aus:
 
-- [Chordex 80](https://github.com/buenosairesfront/chordex80): 80er-Polysynth mit Outrun-Sonnenuntergang
-- [Chordex FM](https://github.com/buenosairesfront/chordexfm): FM mit 4 Operatoren, als Blume gezeichnet
-- [ChordexSTG](https://github.com/buenosairesfront/chordexstg): Orchesterstreicher mit echter Bewegung einer gestrichenen Saite
+| | |
+|---|---|
+| <a href="https://github.com/buenosairesfront/chordex80/blob/main/README.de.md"><img src="https://raw.githubusercontent.com/buenosairesfront/chordex80/main/docs/1_d50.png" width="200" alt="Chordex 80"></a> | **[Chordex 80](https://github.com/buenosairesfront/chordex80/blob/main/README.de.md)**<br>80er-Polysynth mit Outrun-Sonnenuntergang<br>`;install https://github.com/buenosairesfront/chordex80` |
+| <a href="https://github.com/buenosairesfront/chordexfm/blob/main/README.de.md"><img src="https://raw.githubusercontent.com/buenosairesfront/chordexfm/main/docs/3_metal.png" width="200" alt="Chordex FM"></a> | **[Chordex FM](https://github.com/buenosairesfront/chordexfm/blob/main/README.de.md)**<br>FM mit 4 Operatoren, als Blume gezeichnet<br>`;install https://github.com/buenosairesfront/chordexfm` |
+| <a href="https://github.com/buenosairesfront/chordexstg/blob/main/README.de.md"><img src="https://raw.githubusercontent.com/buenosairesfront/chordexstg/main/docs/2_tutti.png" width="200" alt="ChordexSTG"></a> | **[ChordexSTG](https://github.com/buenosairesfront/chordexstg/blob/main/README.de.md)**<br>Orchesterstreicher mit echter Bewegung einer gestrichenen Saite<br>`;install https://github.com/buenosairesfront/chordexstg` |
+
+**Mehr von U-MA:** alle Instrumente und Werkzeuge an einem Ort → [U-MA-Übersicht](https://github.com/buenosairesfront/U-ma/blob/main/README.de.md)
+<!-- /u-ma:family -->
 
 ## Voraussetzungen
 
