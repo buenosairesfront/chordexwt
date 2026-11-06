@@ -484,7 +484,7 @@ end
 local crackle_amt = 0
 local function update_crackle()
   crackle_amt = util.clamp((#held_stack - 2) * 0.35, 0, 1)
-  engine.crackle(crackle_amt)
+  engine.crackle(0)   -- el ruido ya no crece con cada tecla (armaba un siseo fuerte)
 end
 
 -- con clock MIDI, algunos equipos repiten la nota apretada a tempo: el

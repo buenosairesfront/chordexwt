@@ -32,7 +32,6 @@ erzeugt:
 - **Arpeggiator**: up, down, up-down, up x2, down x2, random und *arpa*
   (Harfe); Gate auf Maximum = echtes Legato
 - **Akkordmodus** an/aus (aus = Einzeltöne) und **Halten**
-- Knistern einer alten Schallplatte, wenn mehr als zwei Tasten gehalten werden
 - folgt eingehender MIDI-Clock für das Arpeggio-Tempo
 - alle Einstellungen werden automatisch gespeichert
 
